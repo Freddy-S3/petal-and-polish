@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdf1f5"/>
+      <stop offset="100%" stop-color="#fbe4ec"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="120" r="90" fill="#f6c9d6" opacity="0.6"/>
+  <circle cx="150" cy="540" r="120" fill="#e7b8c9" opacity="0.5"/>
+  <text x="80" y="300" font-family="Georgia, 'Playfair Display', serif" font-size="72" fill="#7a3b52" font-weight="700">Petal &amp; Polish</text>
+  <text x="80" y="360" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#a15a76">Nail art, nail care, and nail health — one manicure at a time</text>
+</svg>
