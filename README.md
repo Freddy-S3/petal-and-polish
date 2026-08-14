@@ -19,6 +19,8 @@ placeholders — see [Manual/placeholder items](#manualplaceholder-items-for-far
 
 ## Running locally
 
+Node 20.11 or newer (below 23) is required; see `engines` in `package.json` and `.nvmrc`.
+
 ```bash
 npm install
 npm run dev       # http://localhost:4321
